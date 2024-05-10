@@ -6,7 +6,7 @@ I am Ahmad Fahmy Ghifariel Akbar, people call me Fahmy or Ahmad, a recent softwa
 [![Instagram Badge](https://img.shields.io/badge/-ahmadproject06-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/ahmadproject06)
 [![Gmail Badge](https://img.shields.io/badge/-ahmadfahmy219@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:ahmadfahmy219@gmail.com)
 
-## ⚡ Technologies
+## ⚡ Mastering Technology
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
