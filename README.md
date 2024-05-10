@@ -24,4 +24,4 @@ I am Ahmad Fahmy Ghifariel Akbar, people call me Fahmy or Ahmad, a recent softwa
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AhmadFahmy021&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AhmadFahmy021.AhmadFahmy021)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AhmadFahmy021.id)
