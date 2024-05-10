@@ -20,7 +20,7 @@ I am Ahmad Fahmy Ghifariel Akbar, people call me Fahmy or Ahmad, a recent softwa
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AhmadFahmy021&count_private=true&show_icons=true&include_all_commits=true)
 
